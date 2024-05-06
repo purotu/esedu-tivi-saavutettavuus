@@ -10,7 +10,7 @@ CSS (Cascading Style Sheets) ja JavaScript ovat tärkeitä työkaluja verkkosivu
 
 ### Esimerkkejä CSS:n käytöstä saavutettavuuden parantamiseksi:**
 
-1. **Kontrasti**: Kontrastin lisääminen tekstiin ja taustaan voi auttaa käyttäjiä, joilla on näkövamma, erottamaan tekstin helpommin. WCAG-ohjeet suosittelevat tiettyjä kontrastisääntöjä, jotka on hyvä ottaa huomioon suunnittelussa[^1^][1].
+1. **Kontrasti**: Kontrastin lisääminen tekstiin ja taustaan voi auttaa käyttäjiä, joilla on näkövamma, erottamaan tekstin helpommin. WCAG-ohjeet suosittelevat tiettyjä kontrastisääntöjä, jotka on hyvä ottaa huomioon suunnittelussa.
 
 2. **Fonttikoot ja -tyylit**: Fonttikoot ja -tyylit voivat vaikuttaa sivuston luettavuuteen. On tärkeää käyttää riittävän suuria fonttikokoja ja helppolukuisia fontteja, jotta sivustoa on helppo lukea kaikilla laitteilla ja näytöillä.
 
